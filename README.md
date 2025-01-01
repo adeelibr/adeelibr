@@ -1,19 +1,19 @@
 # 👋 Hi, I'm Adeel Imran ([@adeelibr](https://github.com/adeelibr))
 
-I'm a **Software Engineer** and **Entrepreneur** with over 9 years of experience in building scalable and efficient web and mobile applications. Currently, I lead [BinaryCodeBarn](https://binarycodebarn.com), an IT consulting firm specializing in **AI**, **MERN/PERN stack development**, and **mobile app solutions**. I thrive on solving challenging problems and helping businesses grow through innovative technology.
+I'm a **Software Engineer** and **Entrepreneur** with over 10 years of experience in building scalable and efficient web and mobile applications. Currently, I work as fullstack consultant through my own firm [BinaryCodeBarn](https://binarycodebarn.com), an IT consulting firm specializing in **MERN/PERN stack development**, and **hybrid mobile app solutions** using react native. I thrive on solving challenging problems and helping businesses grow through innovative technology.
 
 ---
 
 ## 🌟 What I Do
 - 🚀 **Tech Expertise**:
   - Web Development: MERN, PERN stacks
-  - Mobile Development: Android & iOS
+  - Mobile Development: Hybrid Applications React Native
   - AI & Automation: Boosting efficiency with AI tools
 - 🛠️ **Specialties**: 
   - SaaS Development
   - Staff Augmentation
   - Technology Consulting
-- 🌍 **Working Globally**: Providing remote and hybrid tech teams from Berlin and Islamabad.
+- 🌍 **Working Globally**: If the project requires more developers, I can also provide cost effective development teams as well.
 
 ---
 
@@ -31,6 +31,7 @@ I'm a **Software Engineer** and **Entrepreneur** with over 9 years of experience
 
 ## 🌐 Let's Connect
 - LinkedIn: [linkedin.com/in/adeelimran](https://linkedin.com/in/adeelimran)
+- Personal: [Adeel Imran Website](https://www.adeelhere.com/)
 - Website: [BinaryCodeBarn](https://binarycodebarn.com)
 - Email: [adeelimran@example.com](mailto:adeelimran@example.com)
 
@@ -78,7 +79,7 @@ I'm a **Software Engineer** and **Entrepreneur** with over 9 years of experience
 
 ## 🎯 Fun Facts About Me
 - I enjoy working out and exploring **AI-based solutions** for daily challenges.
-- I’m constantly learning and experimenting with new technologies like **Rust**.
+- I’m constantly learning new tools, modern development techniques, clean code and experimenting with new technologies like.
 
 ---
 
