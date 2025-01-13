@@ -33,7 +33,7 @@ I'm a **Software Engineer** and **Entrepreneur** with over 10 years of experienc
 - LinkedIn: [linkedin.com/in/adeelimran](https://linkedin.com/in/adeelimran)
 - Personal: [Adeel Imran Website](https://www.adeelhere.com/)
 - Website: [BinaryCodeBarn](https://binarycodebarn.com)
-- Email: [adeelimran@example.com](mailto:adeelimran@example.com)
+- Email: [adeelimran@gmail.com](mailto:adeelimran@gmail.com) [adeel@binarycodebarn.com](mailto:adeel@binarycodebarn.com)
 
 ---
 
