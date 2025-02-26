@@ -7,11 +7,9 @@ I'm a **Software Engineer** and **Entrepreneur** with over 10 years of experienc
 ## 🌟 What I Do
 - 🚀 **Tech Expertise**:
   - Web Development: MERN, PERN stacks
-  - Mobile Development: Hybrid Applications React Native
   - AI & Automation: Boosting efficiency with AI tools
 - 🛠️ **Specialties**: 
   - SaaS Development
-  - Staff Augmentation
   - Technology Consulting
 - 🌍 **Working Globally**: If the project requires more developers, I can also provide cost effective development teams as well.
 
@@ -20,13 +18,8 @@ I'm a **Software Engineer** and **Entrepreneur** with over 10 years of experienc
 ## 📈 Featured Projects
 ### 🧑‍💻 [FitComrade](https://fitcomrade.com) (Retired Project)
 - A fitness platform enabling coaches and businesses to onboard clients, provide diet and workout plans, and achieve their fitness goals.
-
 ### 🌐 AI-Powered Web Applications
 - Case studies coming soon on AI automation and SaaS solutions.
-
-### 📱 Mobile Applications
-- High-performance apps for iOS and Android tailored for startups and enterprises.
-
 ---
 
 ## 🌐 Let's Connect
