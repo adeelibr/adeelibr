@@ -1,67 +1,61 @@
-# 👋 Hello, I'm Adeel Imran (@adeelibr)
+# Hi, I'm Adeel Imran
 
-## 💡 Senior Full Stack Developer | AI Agentic & RAG Solutions | UI/UX Specialist | 10+ Years Experience
+## Senior Full Stack Developer | AI Solutions Architect | 10+ Years Building Scalable Web & Mobile Applications
 
-I specialize in building scalable, high-performance web and mobile applications that transform complex challenges into intuitive, efficient digital products. As a Founder & Full Stack Consultant at BinaryCodeBarn, I deliver cutting-edge solutions across:
+I help companies build high-performance, scalable applications that drive real business value. With a decade of experience across the full stack, I specialize in delivering end-to-end solutions from architecture to deployment.
 
-- Full Stack Development: MERN/PERN, TypeScript, React, Node.js, Next.js, Express.js
-- Artificial Intelligence (AI): AI Agentic Systems, Retrieval Augmented Generation (RAG), LLM Integration
-- UI/UX Engineering: Crafting exceptional user interfaces with modern design systems (Material UI, Shadcn UI, Ant Design)
-- Hybrid Mobile Applications: React Native, Expo
-- IT Consulting: Architecture, strategy, and technical leadership
+### What I Do
 
-My commitment is to **clean code, robust architecture, and tangible business outcomes**.
+**Full Stack Development** — I build production-ready web and mobile applications using modern JavaScript/TypeScript frameworks. From MVP to scale, I deliver clean, maintainable code that performs.
 
-## ⭐ Why Work With Me? (Value Proposition & Social Proof)
+**AI Integration** — I implement AI-powered features including agentic systems, RAG (Retrieval Augmented Generation), and LLM integration to give your applications intelligent capabilities.
 
-> "The dedication and commitment with which he had taken up the assigned task was remarkable. Our testing team found it very hard to extract bugs from his work."
-— Engineering Manager, Unicorn Mobility Startup
-
-> "Awesomely creative and technical lad. Always has his hands on multiple platforms, scripts and languages. Fast learner who gets the job done, in the best of ways possible. He is quick learner and always goes some extra mile."
-— Engineering Manager, Series C Funding SaaS
-
-I focus on real delivery, not overhead, leveraging AI-accelerated development to ensure better outputs, lower costs, and faster time-to-market. My code review expertise and dedication to quality foster a culture of growth and collaboration, significantly enhancing development efficiency.
-
-##  🚀 Client Success & Impactful Solutions
-
-- Transforming Fitness Coaching: FitComrade
-  - Problem Solved: Streamlined client onboarding, diet/workout planning for coaches and businesses through a robust platform.
-  - My Role: Architect & Lead Developer, delivering the core B2C Android application.
-  - Tangible Result: Successfully launched and scaled the application to 10,000+ users on the Google Play Store.
-  - Technologies: React Native, Node.js, MongoDB
-
-- Driving Efficiency in Enterprise Pharma
-  - Challenge Addressed: Developed high-performance, scalable UIs for complex data aggregation and analysis for a multinational pharmaceutical company.
-  - My Role: Senior Frontend Developer (contract via BinaryCodeBarn), leading critical development initiatives.
-  - Key Outcome: Enhanced data efficiency and provided actionable operational insights for global enterprise users.
-  - Technologies: TypeScript, React, Redux, Custom design system
-
-**Ready to discuss your project's success? Book a Free Consultation Now!** https://cal.com/adeel-imran
-
-- 🌟 Other Key Contributions
-  - ✍️ Technical Author & Open Source Contributor [FreeCodeCamp Articles](https://www.google.com/search?q=https://freecodecamp.org/news/author/adeel/) | [Medium Articles](https://medium.com/@adeelimranr)
-  - Open Source: Active contributor to the widely-used React Material UI library. View My Contributions
+**Technical Leadership** — As Founder of BinaryCodeBarn, I provide consulting, architecture design, and hands-on development for startups and enterprises.
 
 ### Tech Stack
-  - Languages: JavaScript, TypeScript, HTML, CSS, SCSS, PHP
-  - Frontend: React, Next.js, React Native, Redux, Material UI, Shadcn UI, Ant Design, Bootstrap, Semantic-UI, jQuery, Lodash, Storybook, Figma
-  - Backend: Node.js, Express.js
-  - Databases & ORMS: MongoDB, PostgreSQL, MySQL, Firebase, ORM/ODMs: Mongoose, Sequelize, Prisma
-  - Frameworks/Libraries: React Query, CubeJS, WebSockets (SocketIO), ether.js, web3.js, WalletConnect, Highcharts, Recharts, React i8next, React Table, Zustand, MSW (Mock Service Worker)
-  - Testing: Jest, React Testing Library, Cypress, Enzyme
-  - Build Tools/Bundlers: Webpack, Rollup, Vite, Babel (implied by modern JS/TS), Gulp (legacy), Grunt (legacy)
-  - Version Control: Git, GitHub, Bitbucket, Arcanist
-  - CI/CD & Deployment: Jenkins, CircleCI, Gitlab, Vercel, AWS (S3, PM2)
-  - Project Management: Jira, Confluence, Slack, Trello, Basecamp, Asana, Monday
-  - Methodologies: Agile, Scrum, Design Systems, Performance Optimization, Semantic Versioning, Conventional Commits, BEM (CSS Methodology), Airbnb Style Guide, Coding Standards (Eslint, Prettier, TsLint)
-  - Specialized: Agentic RAG, MERN Stack, Performant Tables, Payment Integration (Stripe, 2Checkout, JazzCash), Static Chatbots, PSD to HTML Conversion
 
-### More stuff
-  - Stack Overflow: Rated in the top 3% overall this year, including top 5% in JavaScript & React. View My [Stackoverflow profile](https://stackoverflow.com/users/4921319/adeel-imran?tab=profile)
-  - Let's Connect & Build Something Great! I'm actively seeking direct contracts, SaaS product collaborations, and new challenges in AI-powered solutions. I'm also available for staff augmentation with highly skilled development teams.
-  - Personal Website: adeelhere.com
-  - LinkedIn: linkedin.com/in/adeelimran
-  - Email: adeelimran@gmail.com | adeel@binarycodebarn.com
-  - Company: BinaryCodeBarn https://binarycodebarn.com
+**Frontend:** React, Next.js, TypeScript, React Native, Redux, Material UI, Shadcn UI, Tailwind CSS
 
-**If you find my repositories helpful, a ⭐ or follow on GitHub is much appreciated!**
+**Backend:** Node.js, Express.js, PostgreSQL, MongoDB, MySQL, Prisma, REST APIs, GraphQL
+
+**AI/ML:** LangChain, OpenAI, Agentic RAG Systems, Vector Databases
+
+**DevOps:** AWS, Vercel, Docker, CI/CD (Jenkins, CircleCI), Git
+
+**Testing:** Jest, React Testing Library, Cypress, End-to-End Testing
+
+**Mobile:** React Native, Expo, iOS & Android Development
+
+### Notable Projects
+
+**FitComrade** — Architected and led development of a fitness coaching platform that scaled to 10,000+ users on Google Play Store. Built with React Native, Node.js, and MongoDB.
+
+**Enterprise Pharma Solutions** — Delivered high-performance data visualization and analytics platform for a multinational pharmaceutical company using TypeScript, React, and Redux.
+
+**Open Source** — Active contributor to Material UI and author of technical articles on FreeCodeCamp and Medium.
+
+### Recognition
+
+Top 3% on Stack Overflow overall | Top 5% in JavaScript & React
+
+Testimonials from engineering leaders at unicorn startups and Series C companies highlight my commitment to quality, fast execution, and going the extra mile.
+
+### Let's Work Together
+
+I'm available for:
+- Full stack development projects
+- AI integration and RAG systems
+- Technical consulting and architecture
+- React and Node.js development
+- Mobile app development with React Native
+
+**Get in touch:**
+- Book a call: [adeelhere.com/booking](https://adeelhere.com/booking)
+- Twitter/X: [@adeelibr](https://x.com/adeelibr)
+- LinkedIn: [linkedin.com/in/adeelimran](https://linkedin.com/in/adeelimran)
+- Email: adeelimran@gmail.com
+- Company: [BinaryCodeBarn](https://binarycodebarn.com)
+
+---
+
+If my work helps you, a GitHub star is always appreciated!
