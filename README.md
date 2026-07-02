@@ -8,7 +8,8 @@ Next.js, React.js, Supabase, PostgreSQL, SQL, NoSQL, Firebase, Mongoose, Tailwin
 
 ## Current project
 
-Building [fitcomrade.com](https://fitcomrade.com) SaaS helping fitness and wellness coaches create reusable workout plans for unlimited clients.
+- Building [ubiqlu.com](https://ubiqlu.com) SaaS helping startups get more visibility on social media.
+- Building [fitcomrade.com](https://fitcomrade.com) SaaS helping fitness and wellness coaches create reusable workout plans for unlimited clients.
 
 ## Open source work
 
