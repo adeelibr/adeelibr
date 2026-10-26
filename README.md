@@ -10,15 +10,7 @@ Senior frontend/full stack engineer with 12+ years building production web apps.
 
 ## Stack
 
-React, Next.js, TypeScript, JavaScript, Node.js, Storybook and design systems (9+ years), headless CMS (Sanity, Storyblok), GraphQL, REST, Vitest, Playwright, Vercel, Supabase, PostgreSQL, SQL, NoSQL, Firebase, Mongoose, Tailwind CSS. PDF: pdf-lib, jsPDF, Puppeteer.
-
-## Selected experience
-
-- Binary Code Barn, Berlin: Founder and full stack developer, 02/2024 to now.
-- International law firm, Senior React Frontend Engineer, contract, 05/2026 to 10/2026.
-- Top-3 global pharmaceutical company in Basel: Senior React Frontend Engineer / Tech Lead, contract, 02/2024 to 11/2025, fully remote.
-- Crypto analytics company, Berlin, Senior FullStack Developer, 10/2022 to 09/2023.
-- IoT software company, Berlin, Senior Frontend Developer, 03/2019 to 10/2022.
+React, Next.js, TypeScript, JavaScript, Node.js, Storybook and design systems (9+ years), headless CMS (Storyblok), GraphQL, REST, Vitest, Playwright, Vercel, Supabase, PostgreSQL, SQL, NoSQL, Firebase, Mongoose, Tailwind CSS. PDF: pdf-lib, jsPDF, Puppeteer.
 
 ## Projects
 
